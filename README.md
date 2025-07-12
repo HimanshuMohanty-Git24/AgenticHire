@@ -1,5 +1,6 @@
 ### **AI-Powered Hiring Assistant: A Multi-Agent System for Intelligent Recruitment**
 
+![System Architecture](Assets/diagram.png)
 #### **Executive Summary**
 
 The AI-Powered Hiring Assistant is a sophisticated, scalable application designed to revolutionize the initial stages of the recruitment process. By leveraging a multi-agent system built with **LangGraph** and powered by the high-speed **Groq API**, this tool automates the screening of hundreds of candidates in minutes, a task that traditionally takes days of manual effort. It intelligently evaluates applicants based on skills, experience, and diversity, presenting a curated list of the top 5 candidates with data-driven justifications. This not only accelerates the hiring timeline by over 95% but also introduces a layer of objective, consistent, and diversity-focused analysis that surpasses the capabilities of traditional human-led screening.
