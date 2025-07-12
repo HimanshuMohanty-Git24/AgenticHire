@@ -10,6 +10,7 @@ dependencies = [
     "langchain-core>=0.3.68",
     "langchain-groq>=0.3.6",
     "langgraph>=0.5.2",
+    "pyppeteer>=2.0.0",
     "python-dotenv>=1.1.1",
     "streamlit>=1.46.1",
 ]
