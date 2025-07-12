@@ -48,7 +48,7 @@ This AI-powered system doesn't just speed up the process; it fundamentally impro
 
 | Metric | Traditional Human-Based System | AI-Powered Hiring Assistant | Optimization & Improvement |
 | :--- | :--- | :--- | :--- |
-| **Initial Screening Time** | **6-10 days** (48-81 hours) | **~15-20 minutes** (for 974 candidates) | **~98% Reduction in Time** |
+| **Initial Screening Time** | **6-10 days** (48-81 hours) | **~1-2 hours** (for 974 candidates) | **~98% Reduction in Time** |
 | **Consistency** | Low (subject to fatigue and bias) | **100% Consistent** (same rubric for all) | **Absolute Consistency** |
 | **Objectivity** | Low (prone to unconscious bias) | **High** (data-driven evaluation) | **Significant Reduction in Bias** |
 | **Diversity Analysis** | Subjective / Manual (often secondary) | **Integrated & Data-Driven** | **Systematic & Proactive D&I** |
